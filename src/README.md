@@ -4,7 +4,7 @@ Proje Yapısı
 Proje üç ana Python dosyasından oluşmaktadır:
 
 main.py: Ana uygulama ve kullanıcı arayüzü
-gabor_filter.py: Görüntü işleme ve Gabor filtresi işlemleri
+set_filters: Görüntü işleme ve Gabor filtresi işlemleri
 set_roi.py: ROI (İlgi Alanı) seçimi için gerekli fonksiyonlar
 
 ## Gereksinimler
@@ -15,7 +15,7 @@ set_roi.py: ROI (İlgi Alanı) seçimi için gerekli fonksiyonlar
 * Matplotlib
 
 ## Modül Detayları
-### main.py
+### * main.py
 
 Ana uygulama modülü, kullanıcı arayüzünü ve temel işlevselliği sağlar.
 
@@ -50,7 +50,7 @@ Görüntü işleme ve analiz fonksiyonları
 
 #### MainApp: Kivy uygulaması ana sınıfı
 
-### gabor_filter.py
+### *  set_filters
 Görüntü işleme ve filtreleme işlemlerini gerçekleştiren modül.
 #### Sınıf: EnhancedGaborDetector
 ## Ana özellikler ve metodlar:
@@ -68,7 +68,7 @@ Görüntü işleme ve filtreleme işlemlerini gerçekleştiren modül.
 * apply_roi(): Belirtilen koordinatlarla ROI alır
 * get_result(): Son işlem sonucunu döndürür
 
-### set_roi.py
+### * set_roi.py
 ROI seçimi için gerekli widget ve fonksiyonları içerir.
 * Sınıf: ROICanvas
 Özellikler:
@@ -108,4 +108,4 @@ Detaylı analiz grafikleri (orijinal görüntü, ROI, işlenmiş görüntü, ken
 
 * Görüntüler "assets" klasöründe saklanmalıdır
 ROI seçimi yapılmadan işleme başlatılamaz
-İşlem parametreleri gabor_filter.py içinde özelleştirilebilir.
+İşlem parametreleri set_filters.py içinde özelleştirilebilir.
