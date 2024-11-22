@@ -5,3 +5,6 @@
 
  # Versiyon 2 → 22.11.2024
  ## Bug çözüldü 
+
+# Versiyon 3 → 
+## Fotoğraf Çekme Scripti  , Android'e gömüp android testleri
