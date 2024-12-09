@@ -8,3 +8,8 @@
 
 # Versiyon 3 → 
 ## Fotoğraf Çekme Scripti  , Android'e gömüp android testleri
+-------------------------------------------------------------------
+# VERSİYON 2 DENEME:
+
+https://github.com/user-attachments/assets/7c0bee20-6645-486a-81cc-1511108246f7
+
