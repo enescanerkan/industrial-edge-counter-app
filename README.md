@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/32ca9c8d-5802-4397-b052-bbb38e398da7
 
 1. Clone the repository (Depoyu klonlayın)
 ```bash
-git clone https://github.com/enescanerkan/metal-sheet-counter.git
+git clone https://github.com/enescanerkan/industrial-edge-counter-app.git
 ```
 
 2. Install dependencies (Bağımlılıkları yükleyin)
